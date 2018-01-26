@@ -15,3 +15,9 @@ Implementation: Python
 
 More Info: https://en.wikipedia.org/wiki/Langton's_ant
 
+* **Conway's Game Of Life:** _Game of Life_ or simply _Life_ is a **cellular automaton**. It is a _zero-player_ game that depends on its initial state and nothing else. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
+
+Implementation: Python
+
+More Info: https://en.wikipedia.org/wiki/Conway's_Game_of_Life
+
