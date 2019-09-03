@@ -1,5 +1,3 @@
-//solution for https://www.codechef.com/JAN18/problems/KCON
-
 #include<iostream>
 #include<stdio.h>
 using namespace std;
